@@ -1,0 +1,46 @@
+body { 
+    font-size: 16px;
+}
+/*9. dodajemo pozadinu */
+/* 10. nastavljamo stilizirati elemente */
+
+h1 {
+    font-size: 48px;
+    color: #2e7ad3;
+    text-align: center;
+    margin: 45px 0;
+}
+/* 12. naslovu h1 dodajemo margine */
+
+h2 {
+    font-size: 32px;
+    color: #104c90;
+    margin: 0 0 10px;
+}
+/* 13. naslovu h2 dodajemo marginu 0 */
+/* 14. dodajemo marginu donju */
+
+a {
+    color: #ff8000;
+    font-weight: bold;
+}
+/* 16. stiliziramo link */
+
+a:hover, 
+a:focus {
+    color: #104c90;
+}
+/* 17.  nastavljamo stilizirati hover i focus */
+
+.blog-post {
+    background: #f1f1f1;
+    width: 450px;
+    padding: 25px;
+    margin: 0 auto;
+}
+/* 11. stiliziramo div */
+
+.read-more {
+    margin: 0;
+}
+/* 15. uredujemo paragraf unutar kojeg se nalazi link */
